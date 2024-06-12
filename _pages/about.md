@@ -37,11 +37,17 @@ redirect_from:
 
 # Education
 
-Ph.D. in Mathematics
-2019-2024
-The University of British Columbia
-Dissertation: Free boundary minimal submanifolds in geodesic balls of simply connected space forms
+Ph.D. in Mathematics  
+2019-2024  
+The University of British Columbia  
+Dissertation: Free boundary minimal submanifolds in geodesic balls of simply connected space forms  
 Supervisor: <a href="https://personal.math.ubc.ca/~afraser/" target="_blank">Ailana Fraser</a>
+
+Master of Mathematics (with Honours)
+2015-2019
+The University of Warwick
+Dissertation: The curve shortening flow for properly embedded curves in the plane
+Supervisor: <a href="https://homepages.warwick.ac.uk/~maseq/" target="_blank">Peter Topping</a>
 
 
 
