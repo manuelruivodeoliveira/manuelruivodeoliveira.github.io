@@ -23,12 +23,12 @@ redirect_from:
 
 * MATH180 Differential Calculus with Physical Applications
 
-#### MATLAB TA
+#### MATLAB Teaching Assistant
 
 * MATH152 Linear Systems
 * MATH254 Multivariable and Vector Calculus for Mechanical Engineering
 
-#### TA
+#### Teaching Assistant
 
 * MATH425/525 Differential Geometry I
 * MATH227 Advanced Calculus II
