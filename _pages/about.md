@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 # Research
+
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://animallogic.com/animal-logic/news/rd-research-project/" target="_blank">Smoothly interpolating sparse curves on a surface</a>. Report
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://dx.doi.org/10.14288/1.0442029" target="_blank">Free boundary minimal submanifolds in geodesic balls of simply connected space forms</a>. Ph.D dissertation
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://arxiv.org/abs/2404.12304" target="_blank">New free boundary minimal annuli of revolution in the 3-sphere</a>. Preprint arXiv:2404.12304
@@ -15,15 +16,20 @@ redirect_from:
 
 
 # Teaching
+
 ## The University of British Columbia
+
 ### Instructor
+
 * MATH180 Differential Calculus with Physical Applications
 
 ### MATLAB TA
+
 * MATH152 Linear Systems
 * MATH254 Multivariable and Vector Calculus for Mechanical Engineering
 
 ### TA
+
 * MATH425/525 Differential Geometry I
 * MATH227 Advanced Calculus II
 * MATH226 Advanced Calculus I
@@ -31,22 +37,23 @@ redirect_from:
 * MATH220 Mathematical Proof
 
 ## The University of Warwick
+
 * Supervisor
 * Peer tutor for MA131 Analysis I
 
 
 # Education
 
-Ph.D. in Mathematics  
+**Ph.D. in Mathematics**  
 2019-2024  
 The University of British Columbia  
 Dissertation: Free boundary minimal submanifolds in geodesic balls of simply connected space forms  
 Supervisor: <a href="https://personal.math.ubc.ca/~afraser/" target="_blank">Ailana Fraser</a>
 
-Master of Mathematics (with Honours)
-2015-2019
-The University of Warwick
-Dissertation: The curve shortening flow for properly embedded curves in the plane
+**Master of Mathematics (with Honours)**  
+2015-2019  
+The University of Warwick  
+Dissertation: The curve shortening flow for properly embedded curves in the plane  
 Supervisor: <a href="https://homepages.warwick.ac.uk/~maseq/" target="_blank">Peter Topping</a>
 
 
