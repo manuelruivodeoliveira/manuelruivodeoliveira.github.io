@@ -13,6 +13,7 @@ redirect_from:
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://arxiv.org/abs/2404.12304" target="_blank">New free boundary minimal annuli of revolution in the 3-sphere</a>. Preprint arXiv:2404.12304
 * Chrystiano Araújo, Nicholas Vining, Silver Burla, **Manuel Ruivo de Oliveira**, Enrique Rosales, and Alla Sheffer. 2023. <a href="https://www.cs.ubc.ca/labs/imager/tr/2023/3DReshaping/" target="_blank">Slippage-Preserving Reshaping Of Human-Made 3D Content</a>. ACM Trans. Graph. 42, 6, Article 272 (December 2023), 18 pages
 
+
 # Teaching
 ## The University of British Columbia
 ### Instructor
@@ -34,7 +35,13 @@ redirect_from:
 * Peer tutor for MA131 Analysis I
 
 
+# Education
 
+Ph.D. in Mathematics
+2019-2024
+The University of British Columbia
+Dissertation: Free boundary minimal submanifolds in geodesic balls of simply connected space forms
+Supervisor: <a href="https://personal.math.ubc.ca/~afraser/" target="_blank">Ailana Fraser</a>
 
 
 
