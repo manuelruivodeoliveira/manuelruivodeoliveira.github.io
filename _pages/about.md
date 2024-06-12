@@ -13,8 +13,25 @@ redirect_from:
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://arxiv.org/abs/2404.12304" target="_blank">New free boundary minimal annuli of revolution in the 3-sphere</a>. Preprint arXiv:2404.12304
 * Chrystiano Araújo, Nicholas Vining, Silver Burla, **Manuel Ruivo de Oliveira**, Enrique Rosales, and Alla Sheffer. 2023. <a href="https://www.cs.ubc.ca/labs/imager/tr/2023/3DReshaping/" target="_blank">Slippage-Preserving Reshaping Of Human-Made 3D Content</a>. ACM Trans. Graph. 42, 6, Article 272 (December 2023), 18 pages
 
+# Teaching
+## The University of British Columbia
+### Instructor
+* MATH180 Differential Calculus with Physical Applications
 
+### MATLAB TA
+* MATH152 Linear Systems
+* MATH254 Multivariable and Vector Calculus for Mechanical Engineering
 
+### TA
+* MATH425/525 Differential Geometry I
+* MATH227 Advanced Calculus II
+* MATH226 Advanced Calculus I
+* MATH421/510 Functional Analysis
+* MATH220 Mathematical Proof
+
+## The University of Warwick
+* Supervisor
+* Peer tutor for MA131 Analysis I
 
 
 
