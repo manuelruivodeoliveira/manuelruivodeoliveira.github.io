@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Research
+## Research
 
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://animallogic.com/animal-logic/news/rd-research-project/" target="_blank">Smoothly interpolating sparse curves on a surface</a>. Report
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://dx.doi.org/10.14288/1.0442029" target="_blank">Free boundary minimal submanifolds in geodesic balls of simply connected space forms</a>. Ph.D dissertation
@@ -15,20 +15,20 @@ redirect_from:
 * Chrystiano Araújo, Nicholas Vining, Silver Burla, **Manuel Ruivo de Oliveira**, Enrique Rosales, and Alla Sheffer. 2023. <a href="https://www.cs.ubc.ca/labs/imager/tr/2023/3DReshaping/" target="_blank">Slippage-Preserving Reshaping Of Human-Made 3D Content</a>. ACM Trans. Graph. 42, 6, Article 272 (December 2023), 18 pages
 
 
-# Teaching
+## Teaching
 
-## The University of British Columbia
+### The University of British Columbia
 
-### Instructor
+#### Instructor
 
 * MATH180 Differential Calculus with Physical Applications
 
-### MATLAB TA
+#### MATLAB TA
 
 * MATH152 Linear Systems
 * MATH254 Multivariable and Vector Calculus for Mechanical Engineering
 
-### TA
+#### TA
 
 * MATH425/525 Differential Geometry I
 * MATH227 Advanced Calculus II
@@ -36,13 +36,13 @@ redirect_from:
 * MATH421/510 Functional Analysis
 * MATH220 Mathematical Proof
 
-## The University of Warwick
+### The University of Warwick
 
 * Supervisor
 * Peer tutor for MA131 Analysis I
 
 
-# Education
+## Education
 
 **Ph.D. in Mathematics**  
 2019-2024  
