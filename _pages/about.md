@@ -9,7 +9,7 @@ redirect_from:
 
 ## Research
 
-* **Manuel Ruivo de Oliveira**. 2024. <a href="https://animallogic.com/animal-logic/news/rd-research-project/" target="_blank">Smoothly interpolating sparse curves on a surface</a>. Report
+* **Manuel Ruivo de Oliveira**, Alla Sheffer, Soorya Narayan, Guillaume Pernin, Curtis Andrus. 2024. <a href="https://animallogic.com/animal-logic/news/rd-research-project/" target="_blank">Smoothly interpolating sparse curves on a surface</a>. Report
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://dx.doi.org/10.14288/1.0442029" target="_blank">Free boundary minimal submanifolds in geodesic balls of simply connected space forms</a>. Ph.D dissertation
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://arxiv.org/abs/2404.12304" target="_blank">New free boundary minimal annuli of revolution in the 3-sphere</a>. Preprint arXiv:2404.12304
 * Chrystiano Araújo, Nicholas Vining, Silver Burla, **Manuel Ruivo de Oliveira**, Enrique Rosales, and Alla Sheffer. 2023. <a href="https://www.cs.ubc.ca/labs/imager/tr/2023/3DReshaping/" target="_blank">Slippage-Preserving Reshaping Of Human-Made 3D Content</a>. ACM Trans. Graph. 42, 6, Article 272 (December 2023), 18 pages
