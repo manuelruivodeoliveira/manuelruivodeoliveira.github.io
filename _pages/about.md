@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## Research
+# Research
+
+---
 
 * **Manuel Ruivo de Oliveira**, Alla Sheffer, Soorya Narayan, Guillaume Pernin, Curtis Andrus. 2024. <a href="https://animallogic.com/animal-logic/news/rd-research-project/" target="_blank">Smoothly interpolating sparse curves on a surface</a>. Report
 * **Manuel Ruivo de Oliveira**. 2024. <a href="https://dx.doi.org/10.14288/1.0442029" target="_blank">Free boundary minimal submanifolds in geodesic balls of simply connected space forms</a>. Ph.D. dissertation
@@ -15,7 +17,22 @@ redirect_from:
 * Chrystiano Araújo, Nicholas Vining, Silver Burla, **Manuel Ruivo de Oliveira**, Enrique Rosales, and Alla Sheffer. 2023. <a href="https://www.cs.ubc.ca/labs/imager/tr/2023/3DReshaping/" target="_blank">Slippage-Preserving Reshaping Of Human-Made 3D Content</a>. ACM Trans. Graph. 42, 6, Article 272 (December 2023), 18 pages
 
 
-## Teaching
+# Talks
+
+---
+
+* <a href="https://agirouard.mat.ulaval.ca/SpectralClouds/" target="_blank">Spectral Geometry in the Clouds</a>. Jun 2024. *New free boundary minimal annuli of revolution in the 3-sphere*
+* <a href="https://animallogic.com/" target="_blank">Animal Logic</a>. Nov 2023. *Smooth guide hair interpolation*
+* <a href="https://animallogic.com/" target="_blank">Animal Logic</a>. Oct 2023. *Design of tangent vector fields*
+* <a href="https://www.cs.ubc.ca/~sheffa/students.html" target="_blank">Digital Geometry Processing Group, UBC</a>. Oct 2023. *Design of tangent vector fields*
+* <a href="https://www.iam.ubc.ca/" target="_blank">Institute of Applied Mathematics, UBC</a>. Apr 2022. *Minimal surfaces and eigenvalues*
+* <a href="https://www.math.ubc.ca/research/research-topics/differential-geometry" target="_blank">Differential Geometry Group, UBC</a>. Feb 2021. *Extremal Laplace eigenvalues and minimal surfaces in spheres*
+* <a href="https://www.math.ubc.ca/research/research-topics/differential-geometry" target="_blank">Differential Geometry Group, UBC</a>. Oct 2019. *The curve shortening flow for properly embedded curves in the plane*
+
+
+# Teaching
+
+---
 
 ### The University of British Columbia
 
@@ -42,7 +59,9 @@ redirect_from:
 * Peer tutor for MA131 Analysis I
 
 
-## Education
+# Education
+
+---
 
 **Ph.D. in Mathematics**  
 2019-2024  
